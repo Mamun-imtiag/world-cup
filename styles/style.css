@@ -1,2 +1,49 @@
+  
+ 
+ section{
+display: flex;
+max-width: 1321px;
+max-height: 646px;
+position: absolute;
+left: 112px;
+top: 60px;
+
+background: #161616;
+border-radius: 30px;
  
  
+ }
+ h1{
+    font-size: 70px;
+    line-height: 80px;
+    font-weight: 700px;
+ }
+
+ .half-width{
+width: 50%;
+padding-left: 10%;
+color: white;
+padding-right: 30px;
+padding-top: 20px; 
+ 
+
+ }
+ 
+ .half-width img {
+  
+  width: 100%;
+ }
+ .link-button{
+text-decoration: none;
+background-color: #DD0000;
+padding: 16px 30px;
+color: white;
+border-radius: 5px;
+font-weight: bold;
+
+
+ }
+ .fa-angle-right{
+    padding-left:8px;
+    font-size: 15px;
+ }
